@@ -1,0 +1,11 @@
+{
+  "music.custom": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "musicdisc:music/custom",
+        "stream": true
+      }
+    ]
+  }
+}

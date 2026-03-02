@@ -1,0 +1,21 @@
+# Build outputs
+build/
+out/
+run/
+.gradle/
+mcmodsrepo/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.eclipse
+
+# Generated resources
+src/generated/
+
+# OS files
+.DS_Store
+Thumbs.db
