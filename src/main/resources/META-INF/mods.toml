@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.musicdisc]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.2.20,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.musicdisc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+modId="musicdisc"
+version="${file.jarVersion}"
+displayName="Music Disc"
+description='''
+Adds a custom music disc with a custom sound that can be played in a jukebox.
+'''
